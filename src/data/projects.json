@@ -1,26 +1,34 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
+      "title": "Harvest Demon",
+      "imageSrc": "projects/harvest_demon.png",
+      "description": "Climb as far as you can slashing your enemies",
+      "skills": ["Unity", "Pixel art"],
+      "demo": "https://sancal0606.itch.io/harvest-demon",
       "source": "https://www.github.com"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
+      "title": "Ghost game",
+      "imageSrc": "projects/GhostGame.png",
+      "description": "Posses the soldiers in order to defeat them",
+      "skills": ["Godot", "Blender"],
+      "demo": "https://sancal0606.itch.io/ghost-game",
       "source": "https://www.github.com"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
+      "title": "Wizard of Cards",
+      "imageSrc": "projects/WizardOfCards.png",
+      "description": "GMTK 2024 submission, theme: Built to Scale.",
+      "skills": ["Unity"],
+      "demo": "https://sancal0606.itch.io/wizardofcards",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "P.I.F.A",
+      "imageSrc": "projects/Pifa.png",
+      "description": "College project. Educational/Puzzle Game. Program the game logic in order to solve the puzzles",
+      "skills": ["Unity"],
+      "demo": "https://sancal0606.itch.io/pifa",
       "source": "https://www.github.com"
     }
   ]
