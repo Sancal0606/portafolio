@@ -13,7 +13,7 @@
       "description": "Posses the soldiers in order to defeat them",
       "skills": ["Godot", "Blender"],
       "demo": "https://sancal0606.itch.io/ghost-game",
-      "source": "https://www.github.com"
+      "source": "https://github.com/Sancal0606/GhostGame"
     },
     {
       "title": "Wizard of Cards",
@@ -30,5 +30,21 @@
       "skills": ["Unity"],
       "demo": "https://sancal0606.itch.io/pifa",
       "source": "https://www.github.com"
+    },
+    {
+      "title": "Traffic Simulator",
+      "imageSrc": "projects/traffic.png",
+      "description": "College project. Ai agents for the cars running on a python server",
+      "skills": ["Unity","Python"],
+      "demo": "https://sancal0606.itch.io",
+      "source": "https://github.com/Sancal0606/Traffic_Simulator"
+    },
+    {
+      "title": "3d Graphics",
+      "imageSrc": "projects/graphics.png",
+      "description": "A 3D software renderer built from scratch, following the Pikuma's tutorial",
+      "skills": ["Unity","Python"],
+      "demo": "https://sancal0606.itch.io",
+      "source": "https://github.com/Sancal0606/3dGraphics"
     }
   ]

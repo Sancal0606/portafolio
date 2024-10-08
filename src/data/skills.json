@@ -12,6 +12,26 @@
       "imageSrc":"skills/blender.png"
     },
     {
+      "title": "C",
+      "imageSrc":"skills/c.png"
+    },
+    {
+      "title": "C#",
+      "imageSrc":"skills/c_sharp.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc":"skills/python.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc":"skills/sql.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc":"skills/c++.png"
+    },
+    {
       "title": "HTML",
       "imageSrc": "skills/html.png"
     },
