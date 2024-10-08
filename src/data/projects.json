@@ -27,7 +27,7 @@
       "title": "P.I.F.A",
       "imageSrc": "projects/Pifa.png",
       "description": "College project. Educational/Puzzle Game. Program the game logic in order to solve the puzzles",
-      "skills": ["Unity"],
+      "skills": ["Unity","Blender","Teamwork"],
       "demo": "https://sancal0606.itch.io/pifa",
       "source": "https://www.github.com"
     },
@@ -35,7 +35,7 @@
       "title": "Traffic Simulator",
       "imageSrc": "projects/traffic.png",
       "description": "College project. Ai agents for the cars running on a python server",
-      "skills": ["Unity","Python"],
+      "skills": ["Unity","Python","Teamwork"],
       "demo": "https://sancal0606.itch.io",
       "source": "https://github.com/Sancal0606/Traffic_Simulator"
     },

@@ -10,9 +10,9 @@ function App() {
   return <div className={styles.App}>
     <Navbar></Navbar>
     <Hero></Hero>
+    <Project></Project>
     <About></About>
     <Experience></Experience>
-    <Project></Project>
     <Contact></Contact>
   </div>
 }
