@@ -21,6 +21,10 @@ export default function Contact() {
             <img src={getImageUrl("contact/githubIcon.png")}></img>
             <a href= "https://github.com/Sancal0606"> Github</a>
         </li>
+        <li className={styles.link}>
+            <img src={getImageUrl("contact/docIcon.png")}></img>
+            <a href= "https://drive.google.com/file/d/1UZ9g9F2sRIsHRlrTfHQH0rHQ_uSWhrXS/view?usp=sharing"> Curriculum</a>
+        </li>
     </ul>
   </footer>
 }
