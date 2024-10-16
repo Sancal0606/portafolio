@@ -14,6 +14,13 @@
   text-transform: uppercase;
 }
 
+.video{
+  width:700px;
+  height: 500px;
+  display: flex;
+    justify-content: space-around;
+}
+
 .projects {
   margin-top: 37px;
   display: flex;
