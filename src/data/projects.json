@@ -1,5 +1,13 @@
 [
     {
+      "title": "Bomb bomb boom",
+      "imageSrc": "projects/boom.png",
+      "description": "Save the citizens. Carefull with the bombs",
+      "skills": ["Godot", "Puzzle"],
+      "demo": "https://sancal0606.itch.io/bomb-bomb-boom",
+      "source": "https://github.com/Sancal0606/BombGame"
+    },
+    {
       "title": "Harvest Demon",
       "imageSrc": "projects/harvest_demon.png",
       "description": "Climb as far as you can slashing your enemies",
@@ -26,7 +34,7 @@
     {
       "title": "P.I.F.A",
       "imageSrc": "projects/Pifa.png",
-      "description": "College project. Educational/Puzzle Game. Program the game logic in order to solve the puzzles",
+      "description": "Educational/Puzzle Game. Program the game logic in order to solve the puzzles",
       "skills": ["Unity","Blender","Teamwork"],
       "demo": "https://sancal0606.itch.io/pifa",
       "source": "https://www.github.com"
@@ -34,7 +42,7 @@
     {
       "title": "Traffic Simulator",
       "imageSrc": "projects/traffic.png",
-      "description": "College project. Ai agents for the cars running on a python server",
+      "description": "Ai agents for the cars running on a python server",
       "skills": ["Unity","Python","Teamwork"],
       "demo": "https://sancal0606.itch.io",
       "source": "https://github.com/Sancal0606/Traffic_Simulator"
